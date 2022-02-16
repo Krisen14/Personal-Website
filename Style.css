@@ -1,0 +1,38 @@
+body 
+{font-family: 'Times New Roman', Times, serif;
+	font-size: medium;
+    color: aliceblue;
+    height: 100%;
+    background-image: url("https://wallpaperaccess.com/full/13392.jpg");
+    background-size: auto;
+    padding: 100px;
+    height: 100%;
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.absolute {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h1 
+{
+    font-size: 100px;
+    font-family: 'Times New Roman';
+}
+
+span
+{
+    border: 10px dashed #20bcd5;
+    padding: 20px;
+}
+
+.img-rectangle {
+    border: 3px solid black;
+    border-radius: 50%;
+
+}
+
